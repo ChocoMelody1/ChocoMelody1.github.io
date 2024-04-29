@@ -1,19 +1,15 @@
-# ChocoMelody1
+# ChocoMelody1.github.io
 
+##checklist
+- [x] make github account
+  
+- [x] make repository
 
-star cat
+- [x] make title with name
 
-star cat
+- [x] upload image
 
-**star cat**
+- [x] make checklist 
 
-*star cat*
+![void cat](dangerfield.com.au/cdn/shop/products/BWFW076_001_1.jpg)
 
-~~star cat~~
-
-
-![void cat](https://dangerfield.com.au/cdn/shop/products/BWFW076_001_1.jpg?v=1695875717)
-
--[]starcat
--[]voidcat
--[]spacecat

@@ -1,6 +1,6 @@
 # ChocoMelody1
 
-##checklist
+##Checklist
 
 - [x] make github account
   

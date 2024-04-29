@@ -8,3 +8,5 @@ star cat
 **star cat**
 
 *star cat*
+
+~~star cat~~

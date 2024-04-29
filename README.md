@@ -1,6 +1,7 @@
-# ChocoMelody1.github.io
+# ChocoMelody1
 
 ##checklist
+
 - [x] make github account
   
 - [x] make repository

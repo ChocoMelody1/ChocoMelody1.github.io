@@ -15,7 +15,7 @@
 
 - [x] add colour to Cat
 
-- [] change text size on cat
+- [x] change text size on cat
 
 - [x] change text font on Cat
 

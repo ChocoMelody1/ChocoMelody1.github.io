@@ -21,9 +21,9 @@
 
 - [x] Center text on Cat
 
-- [ ] Add image to Cat
+- [x] Add image to Cat
 
-- [ ] Add hyperlink from Cat to Homepage
+- [x] Add hyperlink from Cat to Homepage
 
 ![void](https://pics.craiyon.com/2023-11-28/3qdNaUtnSc2p4kfBKNy3ug.webp)
 

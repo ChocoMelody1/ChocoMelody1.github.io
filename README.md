@@ -1,4 +1,4 @@
-# Catlin
+# Catlin (Agoria)
 ## Checklist
 
 - [x] make github account

@@ -25,7 +25,7 @@
 
 - [x] Add hyperlink from Cat to Homepage
 
-- [ ] ad css sheet to html file
+- [x] ad css sheet to html file
 
 ![void](https://pics.craiyon.com/2023-11-28/3qdNaUtnSc2p4kfBKNy3ug.webp)
 

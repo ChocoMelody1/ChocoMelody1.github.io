@@ -25,11 +25,17 @@
 
 - [x] Add hyperlink from Cat to Homepage
 
-- [x] ad css sheet to html file
+- [x] Add css sheet to html file
 
-![void](https://pics.craiyon.com/2023-11-28/3qdNaUtnSc2p4kfBKNy3ug.webp)
+- [x] Add paragraph about website topic
+
+Agoria
+
+Agoria is an archipelago in the Palinder sea, known for its coastal caves, shimmering azure waters, lofty mountains, magnificent waterfalls and lush forests. South of the continent Elantris, Agoria is often a considered getaway for the inhabitants of the other continents. Despite the serene natural wonders the islands offer, Agoria has had a history of political dispute. The Islands that make up the main portion of Agoria are Voldryne, Sildrea, Landor (which is barren and uninhabited), and Sarcross. the rest of these pages will be about the other islands, cities, and the people that live there.
 
 
 [Voldryne]( https://chocomelody1.github.io/Voldryne/)
 [Sildrea](https://chocomelody1.github.io/Sildrea/)
 [gfdsgsds]( https://chocomelody1.github.io/gfdsgsgds/)
+
+

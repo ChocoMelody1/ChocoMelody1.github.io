@@ -1,39 +1,39 @@
 h1 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
 font-size:30px
 }
 h2 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
   
 }
 h3 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
 }
 
 h4 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
 }
 h5 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
 }
 h6 {
-color: #DC143C;
+color: #000000;
 text-align: center;
 font-family: "Garamond", serif;
 }
 
 p {
-  color: #DC143C;
+  color: #000000;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 14px;
@@ -42,10 +42,11 @@ p {
 
 body {
   background-color: #E6E6FA;
- 
+
 .center-justified {
     margin: 0 auto;
     text-align: justify;
     width: 45em;
 }
+
 }

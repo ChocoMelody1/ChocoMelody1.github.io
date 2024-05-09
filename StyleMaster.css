@@ -42,11 +42,10 @@ p {
 
 body {
   background-color: #E6E6FA;
-
+}
 .center-justified {
     margin: 0 auto;
     text-align: justify;
     width: 45em;
 }
 
-}

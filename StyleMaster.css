@@ -41,8 +41,8 @@ p {
 
 
 body {
-  background: linear-gradient(0, #4B0082, #E6E6FA);
-
+  background-color: #E6E6FA;
+ 
 .center-justified {
     margin: 0 auto;
     text-align: justify;

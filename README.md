@@ -42,4 +42,4 @@ The rest of these pages will be about the other islands, cities, and the people 
 
 [rubric]( https://chocomelody1.github.io/gfdsgsgds/)
 
-
+[Landor]( https://chocomelody1.github.io/Landor/)

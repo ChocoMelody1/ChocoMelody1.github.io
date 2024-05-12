@@ -45,3 +45,5 @@ The rest of these pages will be about the other islands, cities, and the people 
 [Landor]( https://chocomelody1.github.io/Landor/)
 
 [Quiora]( https://chocomelody1.github.io/Quiora/)
+
+[Kolrabyi](https://chocomelody1.github.io/Kolrabyi/)

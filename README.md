@@ -49,3 +49,5 @@ The rest of these pages will be about the other islands, cities, and the people 
 [Kolrabyi](https://chocomelody1.github.io/Kolrabyi/)
 
 [Shipwreck]( https://chocomelody1.github.io/Shipwreck/)
+
+[Map of Agoria]( https://chocomelody1.github.io/Map/)

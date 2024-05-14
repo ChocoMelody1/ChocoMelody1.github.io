@@ -40,8 +40,6 @@ The rest of these pages will be about the other islands, cities, and the people 
 
 [Sildrea](https://chocomelody1.github.io/Sildrea/)
 
-[rubric]( https://chocomelody1.github.io/gfdsgsgds/)
-
 [Landor]( https://chocomelody1.github.io/Landor/)
 
 [Quiora]( https://chocomelody1.github.io/Quiora/)
@@ -51,3 +49,6 @@ The rest of these pages will be about the other islands, cities, and the people 
 [Shipwreck]( https://chocomelody1.github.io/Shipwreck/)
 
 [Map of Agoria]( https://chocomelody1.github.io/Map/)
+
+[rubric]( https://chocomelody1.github.io/gfdsgsgds/)
+

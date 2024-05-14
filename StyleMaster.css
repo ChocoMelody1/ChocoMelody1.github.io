@@ -54,7 +54,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;  
-   background-color: #cc99ff;
+   background-color: #FFF0F5;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -73,7 +73,7 @@ li a {
 }
 
 li a:hover:not(.active), .dropdown:hover .dropbtn {
-  background-color: #C8A2C8;
+  background-color: #6495ED;
 }
 
 .active {

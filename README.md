@@ -1,35 +1,7 @@
-# Catlin (Agoria)
-## Checklist
-
-- [x] make github account
-  
-- [x] make repository
-
-- [x] make title with name
-
-- [x] upload image
-
-- [x] make checklist
-
-- [x] add link
-
-- [x] add colour to Cat
-
-- [x] change text size on cat
-
-- [x] change text font on Cat
-
-- [x] Center text on Cat
-
-- [x] Add image to Cat
-
-- [x] Add hyperlink from Cat to Homepage
-
-- [x] Add css sheet to html file
-
-- [x] Add paragraph about website topic
-
+# Catlin 
 ## Agoria
+
+Agoria is the name of the Setting I am making for a Dungeons and Dragons campaign I am running for some of my friends.
 
 Agoria is an archipelago in the Palinder sea, known for its coastal caves, shimmering azure waters, lofty mountains, magnificent waterfalls and lush forests. South of the continent Elantris, Agoria is often a considered getaway for the inhabitants of the other continents. Despite the serene natural wonders the islands offer, Agoria has had a history of political dispute. The Islands that make up the main portion of Agoria are Voldryne, Sildrea, Landor (which is now barren and uninhabited), and Sarcross. 
 

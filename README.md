@@ -22,5 +22,7 @@ The rest of these pages will be about the other islands, cities, and the people 
 
 [Map of Agoria]( https://chocomelody1.github.io/Map/)
 
+[Dice Roller]( https://chocomelody1.github.io/Dice-Roller/)
+
 [rubric]( https://chocomelody1.github.io/gfdsgsgds/)
 
